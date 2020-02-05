@@ -1,0 +1,3 @@
+[submodule "mis-finanzas"]
+	path = mis-finanzas
+	url = https://github.com/luism/mis-finanzas
